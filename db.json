@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "name": "Rambo",
+      "email": "rambo@gmail.com",
+      "schoolName": "Delhi Public school, delhi.",
+      "rewardPoint": "1200",
+      "id": 1,
+      "image": "",
+      "location": "piunjab,india"
+    },
+    {
+      "name": "Sahil",
+      "email": "sahil@gmail.com",
+      "schoolName": "Delhi Public school, delhi.",
+      "rewardPoint": "2345",
+      "id": 2,
+      "image": "",
+      "location": "piunjab,india"
+    },
+    {
+      "name": "Rohan",
+      "email": "rohan@gmail.com",
+      "schoolName": "Delhi Public school, delhi.",
+      "rewardPoint": "5678",
+      "id": 3,
+      "image": "",
+      "location": "piunjab,india"
+    },
+    {
+      "name": "Mohan",
+      "email": "mohan@gmail.com",
+      "schoolName": "Delhi Public school, delhi.",
+      "rewardPoint": "9000",
+      "id": 4,
+      "image": "",
+      "location": "piunjab,india"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
